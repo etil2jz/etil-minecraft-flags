@@ -28,6 +28,7 @@ java -server -Xms16G -Xmx16G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCP
 ```
 
 *of course, adjust -Xms and -Xmx values to whatever you want*
+
 *same for your java path and server jar*
 
 ## Source
