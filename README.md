@@ -13,7 +13,8 @@ You can grab the Community Edition [here](https://github.com/graalvm/graalvm-ce-
 
 ***Supported server softwares:***
 - [x] Vanilla
-- [x] Spigot and its forks… ([Airplane](https://github.com/TECHNOVE/Airplane) or [Patina](https://github.com/PatinaMC/Patina) are recommended)
+- [x] Spigot/Paper and its multiple forks… ([Airplane](https://github.com/TECHNOVE/Airplane) or [Patina](https://github.com/PatinaMC/Patina) are recommended)
+- [x] Sponge
 - [x] Fabric
 - [x] Forge
 
